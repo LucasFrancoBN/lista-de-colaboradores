@@ -11,7 +11,7 @@ Posteriormente, deve-se ler o percentual Y para o aumento de salário, depois le
 
 4. **Seguir o seguinte diagrama de classe:**
    
-   ![Diagrama de classe](https://github.com/LucasFrancoBN/combate-java/blob/master/img/diagrama_classe.png)
+   ![Diagrama de classe](https://github.com/LucasFrancoBN/lista-de-colaboradores/blob/master/img/diagrama_classe.png)
 
 ## Exemplo
 ```plaintext
